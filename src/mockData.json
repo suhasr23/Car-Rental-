@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "price": 50,
+      "image": "https://via.placeholder.com/150",
+      "details": "A reliable and affordable sedan."
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "price": 60,
+      "image": "https://via.placeholder.com/150",
+      "details": "A sporty and fuel-efficient car."
+    }
+  ]
+  
