@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" ement={<HomePage />} />
         <Route path="/search" element={<SearchResults />} />
         <Route path="/car/:id" element={<CarDetails />} />
         <Route path="/payment" element={<PaymentPage />} />
